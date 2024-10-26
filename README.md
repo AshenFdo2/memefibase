@@ -10,6 +10,6 @@ pkg install python
 
 git clone https://github.com/AshenFdo2/memefibase
 
-cd memefi1
+cd memefibase
 
-python main.py
+python memehack.py
